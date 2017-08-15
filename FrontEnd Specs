@@ -1,0 +1,14 @@
+Dev specs : Single page app.
+
+
+a component that list all weeks.
+when the user click a week, a new section should open containing the topics related to that week.
+
+
+Topics ----
+If user click in a topic, another section containing the exercise proposed, the solution for the excercise and the lecture.
+should be displayed.
+
+
+const week = 'Week1';
+const weekTopics = ['....
