@@ -10,5 +10,20 @@ If user click in a topic, another section containing the exercise proposed, the 
 should be displayed.
 
 
+Topic (Basic Javascript)
+Lecture
+Excercises
+Excercise Corrections
+Solution Lecture
+
+
+Topic (CodingChallenge)
+Subtopics (BubbleSort)
+Generic Videos. Embed Generic Videos.
+Excercise https://github.com/MuraraAllan/Basic-JavaScript/tree/master/src
+Excercise Solution. https://github.com/MuraraAllan/Basic-JavaScript/tree/master/src
+
+
+
 const week = 'Week1';
 const weekTopics = ['....

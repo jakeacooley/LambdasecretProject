@@ -1,4 +1,4 @@
-sylabus has a week.
+sylabus is divided in weeks.
 a week has many projects.
 
 a class will happen in a week.
@@ -13,14 +13,15 @@ a student can be studying one topic.
 a project has many topics.
 a topic has many subtopics.
 
-
+project.
 sylabus.
 week.
-class.
+classe.
 student.
-project.
 topic.
 excercises.
 lectures.
+
+
 
 
