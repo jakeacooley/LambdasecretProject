@@ -1,0 +1,210 @@
+[
+  {
+    "week": 1,
+    "projects": [
+      {
+        "description": "Basic Javascript",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "Advanced Javascript",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      }
+    ]
+  },
+  {
+    "week": 2,
+    "projects": [
+      {
+        "description": "Data Structures I",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "Data Structures II",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      }
+    ]
+  },
+  {
+    "week": 3,
+    "projects": [
+      {
+        "description": "DOM",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "React I",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      }
+    ]
+  },
+  {
+    "week": 4,
+    "projects": [
+      {
+        "description": "React II",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "Redux",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      }
+    ]
+  },
+  {
+    "week": 5,
+    "projects": [
+      {
+        "description": "HTTP/AJAX",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "SPA/Routing",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      }
+    ]
+  },
+  {
+    "week": 6,
+    "projects": [
+      {
+        "description": "Client Testing",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "Node/Express",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      }
+    ]
+  },
+  {
+    "week": 7,
+    "projects": [
+      {
+        "description": "MongoDB I",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "MongoDB II",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      }
+    ]
+  },
+  {
+    "week": 8,
+    "projects": [
+      {
+        "description": "MongoDB III",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "Auth",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      }
+    ]
+  },
+  {
+    "week": 9,
+    "projects": [
+      {
+        "description": "Client Auth",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "Server Testing",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      }
+    ]
+  },
+  {
+    "week": 10,
+    "projects": [
+      {
+        "description": "DevOps & Deployment",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "React Native I",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      }
+    ]
+  },
+  {
+    "week": ,
+    "projects": [
+      {
+        "description": "",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      }
+    ]
+  },
