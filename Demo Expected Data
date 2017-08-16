@@ -1,0 +1,30 @@
+ "week": 1,
+    "projects": [
+     {
+        "description": "Basic Javascript",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      },
+      {
+        "description": "Advanced Javascript",
+        "lecture": "video-link",
+        "exercise": "https://github.com/",
+        "solution-lecture": "video-link",
+        "exercise-solution": "https://github.com/solution",
+      } 
+    ]
+
+
+
+--- Data Example ----
+
+The weeks should follow Lambda's Syllabus.
+
+https://github.com/LambdaSchool/LambdaCSA-Syllabus
+
+
+Describe the data as in Json example Above.
+
+
