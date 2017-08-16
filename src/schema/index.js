@@ -1,43 +1,61 @@
 const {makeExecutableSchema} = require('graphql-tools');
-const resolvers = require('./resolvers');
 
 const typeDefs = `
-  type Link {
+  type Project{
     id: ID!
-    url: String!
-    description: String!
-		postedBy: User
+    solutionUrl: String
+    excerciseUrl: String
+		description: String!
   }
+  type Sylabus{
+		id: ID!
+		description: String
+	}
+	type Week{
+		id: ID!
+		description: String
+	}
+  type Classe {
+		id: ID!
+		description: String!
+	}
+  type Student {
+		id: ID!
+		name: String!
+		age: Int
+	}
+	type Topic {
+		id: ID!
+		description: String!
+	}
+	type Excercise {
+		id: ID!
+		description: String!
+	}
+	type Lecture {
+		id: ID!
+		description: String
+	}
+	
+	type Query {
+		allProjects: [Project!]!
+		allSylabus: [Sylabus!]!
+		allClasses: [Classe!]!
+		allStudents: [Student!]!
+		allTopics: [Topic!]!
+		allExcercises: [Excercise!]!
+		allLectures: [Lecture!]!
+	}
 
-type User {
-    id: ID!
-    name: String!
-    email: String
-}
-
-input AuthProviderSignupData {
-    email: AUTH_PROVIDER_EMAIL
-}
-
-input AUTH_PROVIDER_EMAIL {
-    email: String!
-    password: String!
-}
-
-type Query {
-    allLinks: [Link!]!
-}
-
-type Mutation {
-  createLink(url: String!, description: String!): Link
-  createUser(name: String!, authProvider: AuthProviderSignupData!): User
-  signinUser(email: AUTH_PROVIDER_EMAIL): SigninPayload!
-}
-
-type SigninPayload {
-    token: String
-    user: User
-}
+ 	type Mutation {
+		createProject(description: String!): Project
+		createSylabus(description: String!): Sylabus
+		createWeek(description: String!): Week
+		createClasse(description: String!): Classe
+		createStudent(name: String!, age: Int): Student
+		createTopic(description: String!): Topic
+		createExcercise(description: String!): Excercise
+		createLecture(description: String!): Lecture
+	}
 `;
-
-module.exports = makeExecutableSchema({typeDefs, resolvers});
+module.exports = makeExecutableSchema({typeDefs});
