@@ -3,17 +3,13 @@ const bodyParser = require('body-parser');
 const {graphqlExpress, graphiqlExpress} = require('apollo-server-express');
 const schema = require('./schema');
 
-// 1
 const connectMongo = require('./mongo-connector');
 
-// 2
 const start = async () => {
-  // 3
   const mongo = await connectMongo();
   var app = express();
   app.use('/graphql', bodyParser.json(), graphqlExpress({
-    context: {mongo}, // 4
-    schema
+    context: {mongo}, 
   }));
   app.use('/graphiql', graphiqlExpress({
     endpointURL: '/graphql',
@@ -25,5 +21,4 @@ const start = async () => {
   });
 };
 
-// 5
 start();
