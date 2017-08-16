@@ -6,8 +6,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-      <h1>Lambda School Tracker</h1>
-      <WeekList />
+        <h1>Lambda School Tracker</h1>
+        <WeekList />
       </div>
     );
   }

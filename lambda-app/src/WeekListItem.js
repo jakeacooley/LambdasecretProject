@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import WeekItemTitle from './WeekItemTitle';
 
 class WeekListItem extends Component {
   constructor(props) {
@@ -7,6 +8,7 @@ class WeekListItem extends Component {
     this.state = {
       showContent: false
     };
+    this.handleClick = this.handleClick.bind(this);
   }
 
   handleClick() {
@@ -16,8 +18,18 @@ class WeekListItem extends Component {
   }
 
   render() {
+    let visible = this.state.showContent ? "showCont" : "hideCont";
     return(
-      <div></div>
+      <li onClick={this.handleClick}>
+        Week {this.props.data.week}
+        <ul className={visible}>
+          {this.props.data.topic.map((element, idx) => {
+            return (
+              <WeekItemTitle key={idx} data={element}/>
+            );
+          })}
+        </ul>
+      </li>
     );
   }
 }

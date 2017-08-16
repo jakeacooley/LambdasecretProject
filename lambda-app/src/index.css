@@ -8,18 +8,10 @@ h1 {
   text-align: center;
 }
 
-#project-list {
-  /*display: none;*/
-}
-
 .showCont {
   display: block;
 }
 
 .hideCont {
   display: none;
-}
-
-#inner-label {
-  font-size: 12px;
 }
