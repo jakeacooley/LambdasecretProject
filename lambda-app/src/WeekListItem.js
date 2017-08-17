@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import WeekItemTitle from './WeekItemTitle';
 
 class WeekListItem extends Component {
-  constructor(props) {
-    super(props);
+  constructor() {
+    super();
 
     this.state = {
       showContent: false
@@ -20,8 +20,8 @@ class WeekListItem extends Component {
   render() {
     let visible = this.state.showContent ? "showCont" : "hideCont";
     return(
-      <li onClick={this.handleClick}>
-        Week {this.props.data.week}
+      <li>
+        <p onClick={this.handleClick}>Week {this.props.data.week}</p>
         <ul className={visible}>
           {this.props.data.topic.map((element, idx) => {
             return (
