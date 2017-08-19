@@ -6,19 +6,17 @@ export const data = [
         "Basic Javascript": [
           {
             "mini": {
-              "github": "http://github.com/mini-project",
-              "vidUrl": "http://youtube.com/sldkfjal?f",
+              "lectureUrl": "http://youtube.com/embed/embed/IgncJgSbbck",
               "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-              "reviewUrl": "http://youtube.com/alskfjlsdjf",
+              "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
               "solutionUrl": "http://github.com/LambdaSchool/somesolution",
             }
           },
           {
             "main": {
-              "github": "http://github.com/main-project",
-              "vidUrl": "http://youtube.com/sldkfjal?f",
+              "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
               "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-              "reviewUrl": "http://youtube.com/alskfjlsdjf",
+              "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
               "solutionUrl": "http://github.com/LambdaSchool/somesolution",
             }
           }
@@ -28,19 +26,17 @@ export const data = [
         "Advanced Javascript": [
           {
             "mini": {
-              "github": "http://github.com/mini-project",
-              "vidUrl": "http://youtube.com/sldkfjal?f",
+              "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
               "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-              "reviewUrl": "http://youtube.com/alskfjlsdjf",
+              "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
               "solutionUrl": "http://github.com/LambdaSchool/somesolution",
             }
           },
           {
             "main": {
-              "github": "http://github.com/main-project",
-              "vidUrl": "http://youtube.com/sldkfjal?f",
+              "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
               "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-              "reviewUrl": "http://youtube.com/alskfjlsdjf",
+              "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
               "solutionUrl": "http://github.com/LambdaSchool/somesolution",
             }
           }
@@ -55,19 +51,17 @@ export const data = [
           "Data Structures I": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -77,19 +71,17 @@ export const data = [
           "Data Structures II": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -104,19 +96,17 @@ export const data = [
           "DOM": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -126,19 +116,17 @@ export const data = [
           "React I": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -153,19 +141,17 @@ export const data = [
           "React II": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -175,19 +161,17 @@ export const data = [
           "Redux": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -202,19 +186,17 @@ export const data = [
           "HTTP/AJAX": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -224,19 +206,17 @@ export const data = [
           "Node/Express": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -251,19 +231,17 @@ export const data = [
           "MongoDB III": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -273,19 +251,17 @@ export const data = [
           "Auth": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -300,19 +276,17 @@ export const data = [
           "Client Auth": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -322,19 +296,17 @@ export const data = [
           "Server Testing": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -349,19 +321,17 @@ export const data = [
           "DevOps & Deployment": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -371,19 +341,17 @@ export const data = [
           "React Native I": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -398,19 +366,17 @@ export const data = [
           "React Native II": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -420,19 +386,17 @@ export const data = [
           "React Native III": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -447,19 +411,17 @@ export const data = [
           "Break Week + Personal Project": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -474,19 +436,17 @@ export const data = [
           "Computer Architecture I": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -496,19 +456,17 @@ export const data = [
           "Computer Architecture II": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -523,19 +481,17 @@ export const data = [
           "Computer Architecture III": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -545,19 +501,17 @@ export const data = [
           "C++ I": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -572,19 +526,17 @@ export const data = [
           "C++ II": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -594,19 +546,17 @@ export const data = [
           "C++ III": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -621,19 +571,17 @@ export const data = [
           "Data Structures I": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -643,19 +591,17 @@ export const data = [
           "Data Structures II": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -670,19 +616,17 @@ export const data = [
           "Data Structures III": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -692,19 +636,17 @@ export const data = [
           "Algorithms I": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -719,19 +661,17 @@ export const data = [
           "Algorithms II": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -741,19 +681,17 @@ export const data = [
           "Operating Systems I": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -768,19 +706,17 @@ export const data = [
           "Operating Systems II": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -790,19 +726,17 @@ export const data = [
           "Operating Systems III": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -817,19 +751,17 @@ export const data = [
           "V8 Engine I": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -844,19 +776,17 @@ export const data = [
           "Relational DBs I": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -866,19 +796,17 @@ export const data = [
           "Relational DBs II": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -893,19 +821,17 @@ export const data = [
           "Capstone Project": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -915,19 +841,17 @@ export const data = [
           "Capstone Project": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -942,19 +866,17 @@ export const data = [
           "Capstone Project": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -964,19 +886,17 @@ export const data = [
           "Capstone Project": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -991,19 +911,17 @@ export const data = [
           "Capstone Project": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -1013,19 +931,17 @@ export const data = [
           "Capstone Project": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -1040,19 +956,17 @@ export const data = [
           "Capstone Project": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -1062,19 +976,17 @@ export const data = [
           "Capstone Project": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -1089,19 +1001,17 @@ export const data = [
           "Interview Strategies": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }
@@ -1111,19 +1021,17 @@ export const data = [
           "Job Search Strategies": [
             {
               "mini": {
-                "github": "http://github.com/mini-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             },
             {
               "main": {
-                "github": "http://github.com/main-project",
-                "vidUrl": "http://youtube.com/sldkfjal?f",
+                "lectureUrl": "http://youtube.com/embed/IgncJgSbbck",
                 "sprintUrl": "http://github.com/LambdaSchool/somesprint",
-                "reviewUrl": "http://youtube.com/alskfjlsdjf",
+                "reviewUrl": "http://youtube.com/embed/alskfjlsdjf",
                 "solutionUrl": "http://github.com/LambdaSchool/somesolution",
               }
             }

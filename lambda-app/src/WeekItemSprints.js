@@ -25,7 +25,8 @@ handleClick() {
         <ul className={visible}>
           {Object.keys(this.props.data[sprint]).map((url, idx) => {
             return (
-              <li key={idx}>{url}: {this.props.data[sprint][url]}</li>
+              <li key={idx}><iframe id="ytplayer" title={idx} type="text/html" width="640" height="360"
+  src={this.props.data[sprint][url]} frameBorder="0"></iframe></li>
             );
           })}
         </ul>
